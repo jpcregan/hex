@@ -6,9 +6,12 @@ A tool to assemble binary files from text.
 
 - C89 Compiler
 
-## Installation
+## Compilation
 
 	$ cc hex.c -o hex
+
+## Installation
+
 	# cp hex /usr/local/bin
 
 ## Usage
